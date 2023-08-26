@@ -1,0 +1,2 @@
+# 🔍 Microtasks
+- Create 2 properties for Speed (read only) and for Name (public). Practice using auto properties as well as delcaring them. When declaring them, use Debug lines to know when the properties are being called.
